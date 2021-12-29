@@ -8,8 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
-<h1 style="color:blue;"> Version: 1.22  </h1>
+<h1 style="color:blue;"> Hello, Welcome to Our Automated DevOps Project  </h1>
+<h1 style="color:blue;"> Version: 1.23  </h1>
 </body>
 </html>
 
