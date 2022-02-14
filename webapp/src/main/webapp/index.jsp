@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Hello My name is shiv shukla, how are you sir  </h1>
-<h1 style="color:blue;"> Version: 1.27 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning </h1>
+<h1 style="color:blue;"> Version: 1.24 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning </h1>
 </body>
 </html>
 
