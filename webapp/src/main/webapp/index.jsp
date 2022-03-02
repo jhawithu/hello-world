@@ -8,7 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps Project - ansible autobuild #1 </h1>
+<h1 style="color:blue;"> Hello, Welcome to Our DevOps Project - ansible autobuild #1 </h1>  
+<h1 style="color:blue;"> Build war in Jenkins - publish war to ansible, build image, push to dockerhub - pull and create container in dockerhost using ansible playbook </h1>
 <h1 style="color:blue;"> Version: 1.24  </h1>
 </body>
 </html>
