@@ -1,10 +1,7 @@
 <html>
 <body>
-<h2>Hello World! project checking using CICD</h2>
-  <h3>project2 changed to changed3 </h3>
-   <h4>20102022 </h4>
-  
-    <h4>25092022 </h4>
+<h2>Hello World!</h2>
+  <h2> Code has been commited successfully</h2>
 </body>
 </html>
 
