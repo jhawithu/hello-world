@@ -1,4 +1,5 @@
-# Pull base image 
-FROM tomcat:9.0
+FROM tomcat:9.0.75
+MAINTAINER ghanashyam
+CMD ["catalina.sh", "run"]
 COPY ./webapp.war /usr/local/tomcat/webapps
-CMD ["/usr/local/tomcat/bin/catalina.sh", "run"]
+EXPOSE 8080
