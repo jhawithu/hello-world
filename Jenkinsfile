@@ -32,7 +32,7 @@ pipeline{
                        }
                    }
                    steps {
-                           sh "yum install git -y"
+                           
                            sh "cp /mnt/webapp.war /mnt/compose"
                    }
                }
