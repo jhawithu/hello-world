@@ -8,8 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Ghanashyam , this is project new build </h1>
-<h1 style="color:blue;"> updated version of project </h1>
+<h1 style="color:blue;"> Hello, Ghanashyam , here in my new build </h1>
+<h1 style="color:blue;"> This is project version 1.0 </h1>
 </body>
 </html>
 
