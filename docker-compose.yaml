@@ -1,0 +1,15 @@
+version: '3'
+services:
+  one:
+    build:
+      dockerfile: Dockerfile
+    image: server-1
+    ports:
+    - "8080:8080"
+
+  two:
+    build:
+      dockerfile: Dockerfile
+    image: server-2
+    ports:
+    - "9090:8080"
